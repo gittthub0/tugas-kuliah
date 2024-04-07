@@ -17,5 +17,6 @@ public class Polymorphism {
     }
 }
 
+
 // class methodTampil sebagai superclass yang menyediakan method tampil()
 //class Piano, Gitar, Biola, Drum, Saxaphone, dan Trumpet sebagai subclass(mewarisi class methodTampil) dan override method tampil() untuk print pesan
