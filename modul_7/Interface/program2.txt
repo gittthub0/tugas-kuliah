@@ -4,7 +4,8 @@ class Animal:  Dalam Java, sebuah interface adalah kumpulan metode abstrak yang 
 
 class pig: mengimplementasikan method yang ada di class Animal
 
-class Main:  membuat object myPig dari class pig
+class Main: merupakan class untuk mengeksekusi program 2 
+    membuat object myPig dari class pig
     Memanggil method animalSound() dari object myPig
     Memanggil method sleep() pada objek myPig
 
