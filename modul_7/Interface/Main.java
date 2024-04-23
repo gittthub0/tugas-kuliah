@@ -1,9 +1,9 @@
-package modul_7.Abstract;
+package modul_7.Interface;
 
-public class Main {
+class Main {
     public static void main(String[] args) {
-        Pig myPig = new Pig();
+        Pig myPig = new Pig(); 
         myPig.animalSound();
         myPig.sleep();
-    }
+        }
 }
